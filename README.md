@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Python+Developer;Building+Production+APIs+%26+Web+Apps;Async+FastAPI+%7C+Flask+%7C+PostgreSQL;Shipping+Real+Products+That+Work&font=Fira%20Code&center=true&width=680&height=50&color=3776AB&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Python+Developer;Building+Production+APIs+%26+Web+Apps;Async+FastAPI+%7C+Flask+%7C+PostgreSQL&font=Fira%20Code&center=true&width=680&height=50&color=3776AB&pause=1000">
 </p>
 
 <h1 align="center">
-  Hi, I'm Richard Oyelowo 👋
+  Hi, I'm Richard 👋
 </h1>
 
 <h3 align="center">

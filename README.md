@@ -19,11 +19,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🐍 Python backend developer specializing in REST APIs and production web apps
-- 🚀 Deployed **3 live projects** with custom domains
+- 🐍 Python backend developer specializing in production web apps & REST APIs 
+- 🚀 Deployed **4 live projects** with custom domains
 - 🗄️ Comfortable with PostgreSQL, async SQLAlchemy, schema migrations, and Docker
 - 🧠 Self-taught — zero to production in **7 months**
-- 🎓 **Harvard CS50x** and **Harvard CS50 Python**
 
 ---
 
@@ -56,16 +55,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/html-5.png" width="40" title="HTML5"/></a>
 <a href="https://postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/></a>
 </p>
-
----
-
-## 📈 Currently Building
-
-```
-🔨 fastapi-authkit  — reusable JWT auth pip package
-🧪 Integration tests with pytest
-⚙️ GitHub Actions CI/CD pipeline
-```
 
 ---
 

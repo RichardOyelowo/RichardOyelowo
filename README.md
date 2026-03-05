@@ -8,10 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/richard-oyelowo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/RichardOyelowo" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=RichardOyelowo&style=flat-square&color=3776AB"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Richard%20Oyelowo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -36,7 +33,6 @@
 
 **[Job Scraper](https://github.com/RichardOyelowo/Job-Scraper)** — Automated Job Collector · `Playwright · BeautifulSoup · Pandas`
 
----
 
 ## 🛠️ Stack
 
@@ -52,25 +48,15 @@
 <a href="https://postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/></a>
 </p>
 
----
-
-## 📫 Let's Connect
-
 <p align="left">
-  <a href="https://linkedin.com/in/richard-oyelowo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Richard%20Oyelowo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://snip-ly.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Snip-snip--ly.xyz-e6be64?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Snip-snip--ly-e6be64?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://devbrain.online" target="_blank">
-    <img src="https://img.shields.io/badge/DevBrain-devbrain.online-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DevBrain-devbrain-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://businessdashboard.shop" target="_blank">
-    <img src="https://img.shields.io/badge/Dashboard-businessdashboard.shop-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dashboard-businessdashboard-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 

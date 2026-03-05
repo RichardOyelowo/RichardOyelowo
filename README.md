@@ -29,16 +29,12 @@
 ## 🚀 Live Projects
 
 **[Snip](https://snip-ly.xyz)** — URL Shortener · `FastAPI · PostgreSQL · async SQLAlchemy · Docker`
-> Base62 short links, click tracking, admin dashboard, Dockerized and deployed on Railway
 
 **[DevBrain](https://devbrain.online)** — Developer Knowledge Base · `Flask · PostgreSQL · TailwindCSS`
-> Notes, code snippets, tagging, and search — built for developers
 
 **[Business Dashboard](https://businessdashboard.shop)** — Customer & Order Management · `Flask · PostgreSQL · SQLAlchemy`
-> Multi-user platform with data isolation, email password reset, and pagination
 
 **[Job Scraper](https://github.com/RichardOyelowo/Job-Scraper)** — Automated Job Collector · `Playwright · BeautifulSoup · Pandas`
-> CLI-driven scraper that collects and processes Indeed listings
 
 ---
 
